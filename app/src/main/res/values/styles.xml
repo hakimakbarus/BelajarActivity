@@ -5,7 +5,7 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="colorAccent">@color/colorAccent</item>
+<!--        <item name="colorAccent">@color/colorAccent</item>-->
         <item name="textWhiteColor">@color/myTextLight</item>
     </style>
 
@@ -19,6 +19,18 @@
         <item name="textWhiteColor">@color/myTextLight</item>
         <item name="detailBackground">@color/myLayoutColor</item>
 <!--        <item name="imageTransparentOverlay">@color/pantoneTransparent</item>-->
+    </style>
+
+    <style name="MyTheme1" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/myPrimary1</item>
+        <item name="colorPrimaryDark">@color/myPrimaryDark1</item>
+        <item name="tabBackgroundColor">@color/myPrimaryDark1</item>
+        <item name="toolbarBackgroundColor">@color/myPrimaryDark1</item>
+        <item name="textDarkColor">@color/myPrimaryDark1</item>
+        <item name="textTabColor">@color/myText1</item>
+        <item name="textWhiteColor">@color/myTextLight1</item>
+        <item name="detailBackground">@color/myLayoutColor1</item>
+        <!--        <item name="imageTransparentOverlay">@color/pantoneTransparent</item>-->
     </style>
 
 </resources>

@@ -9,6 +9,7 @@
     <attr name="buttonDanger" format="color" />
     <attr name="textTabColor" format="color" />
     <attr name="textWhiteColor" format="color" />
+    <attr name="myText1" format="color" />
     <attr name="detailBackground" format="color" />
     <attr name="imageTransparentOverlay" format="color" />
     <attr name="layoutColor" format="color" />

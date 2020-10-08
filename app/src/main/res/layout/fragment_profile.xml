@@ -14,8 +14,8 @@
             android:layout_height="wrap_content"
             android:text="Your Login Profile"
             android:gravity="center"
-            android:textSize="24dp"
-            android:textColor="@color/myText"/>
+            android:textSize="24sp"
+            android:textColor="@color/myText1"/>
 
         <TextView
             android:layout_width="match_parent"
